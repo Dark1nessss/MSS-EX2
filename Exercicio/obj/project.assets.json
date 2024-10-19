@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frank\\Documents\\GitHub\\MSS-EX2\\Exercicio\\Exercicio.csproj",
+      "projectUniqueName": "C:\\Users\\frank\\Documents\\GitHub\\Willy Wonka portfolio Template free\\MSS-EX2\\Exercicio\\Exercicio.csproj",
       "projectName": "Exercicio",
-      "projectPath": "C:\\Users\\frank\\Documents\\GitHub\\MSS-EX2\\Exercicio\\Exercicio.csproj",
+      "projectPath": "C:\\Users\\frank\\Documents\\GitHub\\Willy Wonka portfolio Template free\\MSS-EX2\\Exercicio\\Exercicio.csproj",
       "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frank\\Documents\\GitHub\\MSS-EX2\\Exercicio\\obj\\",
+      "outputPath": "C:\\Users\\frank\\Documents\\GitHub\\Willy Wonka portfolio Template free\\MSS-EX2\\Exercicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
