@@ -65,19 +65,35 @@ class Program
 {
     static void Main(string[] args)
     {
-        Universidade princeton = new Universidade("Princeton (New Jersey, EUA)");
-        Universidade cambridge = new Universidade("Cambridge (England, UK)");
+        Console.Write("Digite o nome da primeira pessoa: ");
+        string nome1 = Console.ReadLine();
+        Console.Write("Digite a data de nascimento da primeira pessoa (dd/mm/aaaa): ");
+        string dataNascimento1 = Console.ReadLine();
 
-        Pessoa einstein = new Pessoa("Albert Einstein", "14/03/1879");
-        Pessoa newton = new Pessoa("Isaac Newton", "04/01/1643");
+        Console.Write("Digite o nome da universidade associada à primeira pessoa: ");
+        string universidade1 = Console.ReadLine();
 
-        einstein.SetUniversidade(princeton);
-        newton.SetUniversidade(cambridge);
+        Console.Write("Digite o nome da segunda pessoa: ");
+        string nome2 = Console.ReadLine();
+        Console.Write("Digite a data de nascimento da segunda pessoa (dd/mm/aaaa): ");
+        string dataNascimento2 = Console.ReadLine();
 
-        Console.WriteLine("Informações sobre os cientistas e suas universidades:");
+        Console.Write("Digite o nome da universidade associada à segunda pessoa: ");
+        string universidade2 = Console.ReadLine();
+
+        Universidade uni1 = new Universidade(universidade1);
+        Universidade uni2 = new Universidade(universidade2);
+
+        Pessoa pessoa1 = new Pessoa(nome1, dataNascimento1);
+        Pessoa pessoa2 = new Pessoa(nome2, dataNascimento2);
+
+        pessoa1.SetUniversidade(uni1);
+        pessoa2.SetUniversidade(uni2);
+
+        Console.WriteLine("\nInformações sobre as pessoas e suas universidades:");
         Console.WriteLine("------------------------------------------------------");
-        
-        einstein.MostrarInformacoes();
-        newton.MostrarInformacoes();
+
+        pessoa1.MostrarInformacoes();
+        pessoa2.MostrarInformacoes();
     }
 }

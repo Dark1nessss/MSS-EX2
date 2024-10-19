@@ -13,3 +13,18 @@ C:\Users\frank\Documents\GitHub\MSS-EX2\Exercicio2\obj\Debug\net8.0\refint\Exerc
 C:\Users\frank\Documents\GitHub\MSS-EX2\Exercicio2\obj\Debug\net8.0\Exercicio2.pdb
 C:\Users\frank\Documents\GitHub\MSS-EX2\Exercicio2\obj\Debug\net8.0\Exercicio2.genruntimeconfig.cache
 C:\Users\frank\Documents\GitHub\MSS-EX2\Exercicio2\obj\Debug\net8.0\ref\Exercicio2.dll
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\bin\Debug\net8.0\Exercicio2.exe
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\bin\Debug\net8.0\Exercicio2.deps.json
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\bin\Debug\net8.0\Exercicio2.runtimeconfig.json
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\bin\Debug\net8.0\Exercicio2.dll
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\bin\Debug\net8.0\Exercicio2.pdb
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\obj\Debug\net8.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfo.cs
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\obj\Debug\net8.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\obj\Debug\net8.0\Exercicio2.sourcelink.json
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\obj\Debug\net8.0\Exercicio2.dll
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\obj\Debug\net8.0\refint\Exercicio2.dll
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\obj\Debug\net8.0\Exercicio2.pdb
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\obj\Debug\net8.0\Exercicio2.genruntimeconfig.cache
+C:\Users\frank\Documents\GitHub\Willy Wonka portfolio Template free\MSS-EX2\Exercicio2\obj\Debug\net8.0\ref\Exercicio2.dll
